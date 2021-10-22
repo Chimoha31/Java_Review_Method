@@ -13,12 +13,6 @@ public class MethodOverLoading {
 		System.out.println("Square of area2 is " + area(5));
 		
 		printSomething("Yay", 15);
-		
-		
-			 
-			int num = 100;
-			String str = "円";
-			System.out.println(num + str);
 
 	}
 
